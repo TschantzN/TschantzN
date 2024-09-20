@@ -2,6 +2,8 @@
 I'm Nathan, and I'm a student at heig-vd Switzerland.
 
 Currently, I'm studying for a bachelor in embedded systems.
+
+
 <!--
 **TschantzN/TschantzN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
